@@ -1,0 +1,11 @@
+.flex{
+    display: flex;
+}
+#MA{
+    height: 25px;
+    width: 18px;
+}
+#A{
+    height: 18px;
+    width: 25px;   
+}
